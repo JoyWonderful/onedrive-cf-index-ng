@@ -30,10 +30,7 @@ module.exports = {
   // googleFontMono - the monospace font used in onedrive-cf-index-ng.
   googleFontMono: "ui-monospace, 'Cascadia Code', 'Cascadia Mono', 'Consolas'",
   // googleFontLinks -  an array of links for referencing the google font assets.
-  googleFontLinks: ['https://src-jywon.netlify.app/fonts/lxgw/font.css'],
-
-  // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
-  // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
+  googleFontLinks: ['https://src-jywon.pages.dev/fonts/lxgw/font.css''https://src-jywon.pa'ge/fonts/lxgw/font.css''htt  // [OPTIONAL] The footer component of your website. You can wr  // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
     'Powered by <a href="https://github.com/lyc8503/onedrive-cf-index-ng" target="_blank" rel="noopener noreferrer">onedrive-cf-index-ng</a>(by lyc8503).<br>Site owner: JoyWonderful',
 
