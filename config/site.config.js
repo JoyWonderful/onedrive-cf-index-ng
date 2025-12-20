@@ -28,7 +28,7 @@ module.exports = {
   // googleFontSans - the sans serif font used in onedrive-cf-index-ng.
   googleFontSans: 'lxgw',
   // googleFontMono - the monospace font used in onedrive-cf-index-ng.
-  googleFontMono: 'Consolas',
+  googleFontMono: "ui-monospace, 'Cascadia Code', 'Cascadia Mono', 'Consolas'",
   // googleFontLinks -  an array of links for referencing the google font assets.
   googleFontLinks: ['https://src-jywon.netlify.app/fonts/lxgw/font.css'],
 
