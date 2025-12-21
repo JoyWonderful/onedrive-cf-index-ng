@@ -26,9 +26,9 @@ module.exports = {
   // [OPTIONAL] We use Google Fonts natively for font customisations.
   // You can check and generate the required links and names at https://fonts.google.com.
   // googleFontSans - the sans serif font used in onedrive-cf-index-ng.
-  googleFontSans: 'lxgw, sans-serif',
+  googleFontSans: 'lxgw',
   // googleFontMono - the monospace font used in onedrive-cf-index-ng.
-  googleFontMono: "ui-monospace, 'Cascadia Code', 'Cascadia Mono', 'Consolas'",
+  googleFontMono: 'Cascadia Code',
   // googleFontLinks -  an array of links for referencing the google font assets.
   googleFontLinks: ['https://src-jywon.pages.dev/fonts/lxgw/font.css'],  
   footer: // [OPTIONAL] The footer component of your website. You can write anything here, and if you like badges, generate some with https://shields.io
