@@ -11,7 +11,7 @@ module.exports = {
 
   // [OPTIONAL] This is the website icon to the left of the title inside the navigation bar. It should be placed under the
   // /public directory of your GitHub project (not your OneDrive folder!), and referenced here by its relative path to /public.
-  icon: '/icons/128.png',
+  icon: '/icons/64.png',
 
   // The name of your website. Present alongside your icon.
   title: "Some Drive Files",
@@ -45,10 +45,10 @@ module.exports = {
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
   // you provide. See the documentation for details.
   links: [
-    {
-      name: 'GitHub',
-      link: 'https://github.com/JoyWonderful/onedrive-cf-index-ng',
-    },
+    // {
+    //   name: 'GitHub',
+    //   link: 'https://github.com/JoyWonderful/onedrive-cf-index-ng',
+    // },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
