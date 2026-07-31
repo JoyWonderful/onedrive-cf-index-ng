@@ -26,7 +26,7 @@ module.exports = {
   // [OPTIONAL] We use Google Fonts natively for font customisations.
   // You can check and generate the required links and names at https://fonts.google.com.
   // googleFontSans - the sans serif font used in onedrive-cf-index-ng.
-  googleFontSans: 'LXGW WenKai Mono GB Lite',
+  googleFontSans: 'LXGW WenKai Mono GB',
   // googleFontMono - the monospace font used in onedrive-cf-index-ng.
   googleFontMono: 'Cascadia Code',
   // googleFontLinks -  an array of links for referencing the google font assets.
